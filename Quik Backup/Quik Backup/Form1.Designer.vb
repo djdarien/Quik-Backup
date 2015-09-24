@@ -32,8 +32,8 @@ Partial Class Form1
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.radServer = New System.Windows.Forms.RadioButton()
         Me.radUSB = New System.Windows.Forms.RadioButton()
+        Me.radServer = New System.Windows.Forms.RadioButton()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
@@ -119,6 +119,16 @@ Partial Class Form1
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Backup Style"
         '
+        'radUSB
+        '
+        Me.radUSB.AutoSize = True
+        Me.radUSB.Location = New System.Drawing.Point(6, 46)
+        Me.radUSB.Name = "radUSB"
+        Me.radUSB.Size = New System.Drawing.Size(63, 17)
+        Me.radUSB.TabIndex = 0
+        Me.radUSB.Text = "To USB"
+        Me.radUSB.UseVisualStyleBackColor = True
+        '
         'radServer
         '
         Me.radServer.AutoSize = True
@@ -130,16 +140,6 @@ Partial Class Form1
         Me.radServer.TabStop = True
         Me.radServer.Text = "To Server"
         Me.radServer.UseVisualStyleBackColor = True
-        '
-        'radUSB
-        '
-        Me.radUSB.AutoSize = True
-        Me.radUSB.Location = New System.Drawing.Point(6, 46)
-        Me.radUSB.Name = "radUSB"
-        Me.radUSB.Size = New System.Drawing.Size(63, 17)
-        Me.radUSB.TabIndex = 0
-        Me.radUSB.Text = "To USB"
-        Me.radUSB.UseVisualStyleBackColor = True
         '
         'Form1
         '

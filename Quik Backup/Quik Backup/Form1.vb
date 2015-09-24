@@ -81,7 +81,7 @@ Public Class Form1
         txtSource.Text = FolderBrowserDialog1.SelectedPath
     End Sub
 
-#Region "Calls made necessary for runtime"
+#Region "Exceptions"
 
     Public Sub New()
         InitializeComponent()
@@ -97,8 +97,6 @@ Public Class Form1
 
 #End Region
 
-
-
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
         ' Show about box.
         AboutBox1.Show()
@@ -108,8 +106,15 @@ Public Class Form1
         ' Changing label text when radio button is selected
         If radServer.Checked = True Then
             Label1.Text = "Location of your" & vbCrLf & "USB/Flash Drive"
+            txtSource.Text = ""
         ElseIf radUSB.Checked = True Then
             Label1.Text = "Location of your" & vbCrLf & "Network Drive"
+            txtSource.Text = ""
         End If
+    End Sub
+
+    Private Sub Form1_FormClosed(sender As Object, e As FormClosedEventArgs) Handles MyBase.FormClosed
+        disclaimer.Close()
+        AboutBox1.Close()
     End Sub
 End Class

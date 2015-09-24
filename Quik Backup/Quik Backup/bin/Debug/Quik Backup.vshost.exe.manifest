@@ -4,7 +4,7 @@
   <description asmv2:iconFile="blue_external_drive_backup.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Quik Backup" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Quik Backup" version="2.0.1.1" language="neutral" processorArchitecture="msil" />
     <commandLine file="Quik Backup.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="380928">
-      <assemblyIdentity name="Quik Backup" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="381440">
+      <assemblyIdentity name="Quik Backup" version="2.0.1.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XiRJrversNmI79USJKGOqMqxs7Q9NlirPE4Rub3xCTk=</dsig:DigestValue>
+        <dsig:DigestValue>7vHIV3StCdCttjdSLWQ2vMNeRy7I6MUrpRLBankWAmE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
