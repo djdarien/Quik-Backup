@@ -116,3 +116,7 @@ E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.applicat
 E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.exe
 E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.xml
 E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.pdb
+F:\Quik Backup Builds\Quik Backup 2_1\Quik Backup\bin\Debug\Quik Backup.exe.config
+F:\Quik Backup Builds\Quik Backup 2_1\Quik Backup\obj\Debug\Quik Backup.exe
+F:\Quik Backup Builds\Quik Backup 2_1\Quik Backup\obj\Debug\Quik Backup.xml
+F:\Quik Backup Builds\Quik Backup 2_1\Quik Backup\obj\Debug\Quik Backup.pdb

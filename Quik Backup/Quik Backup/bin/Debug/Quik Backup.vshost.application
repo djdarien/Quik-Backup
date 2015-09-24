@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Quik Backup.exe.manifest" size="4462">
+    <dependentAssembly dependencyType="install" codebase="Quik Backup.exe.manifest" size="4979">
       <assemblyIdentity name="Quik Backup.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dJAtDNw656TyqSJwFjQcG8KEmJvK2SZNmbkwK+4ZfTY=</dsig:DigestValue>
+        <dsig:DigestValue>T04yF4Gs+MbXY1fdwJIchjW6QA6+FzJkw/EGe+uq3Fs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
