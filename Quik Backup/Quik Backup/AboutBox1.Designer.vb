@@ -46,7 +46,7 @@ Partial Class AboutBox1
         '
         'TextBoxDescription
         '
-        Me.TextBoxDescription.BackColor = System.Drawing.Color.LightGray
+        Me.TextBoxDescription.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.TextBoxDescription.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TextBoxDescription.Location = New System.Drawing.Point(6, 111)
         Me.TextBoxDescription.Margin = New System.Windows.Forms.Padding(6, 3, 3, 3)
@@ -136,7 +136,7 @@ Partial Class AboutBox1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.Silver
+        Me.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.CancelButton = Me.OKButton
         Me.ClientSize = New System.Drawing.Size(412, 289)
         Me.Controls.Add(Me.TableLayoutPanel)

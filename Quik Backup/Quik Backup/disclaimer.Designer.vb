@@ -78,7 +78,7 @@ Partial Class disclaimer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.Silver
+        Me.BackColor = System.Drawing.SystemColors.GradientInactiveCaption
         Me.ClientSize = New System.Drawing.Size(506, 212)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.btnAccept)

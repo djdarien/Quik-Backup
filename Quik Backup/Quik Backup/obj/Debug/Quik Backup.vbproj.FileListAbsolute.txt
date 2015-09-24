@@ -100,3 +100,19 @@ E:\Quik Backup Builds\Quik Backup 1_2_1\Quik Backup\obj\Debug\Quik Backup.vbproj
 E:\Quik Backup Builds\Quik Backup 1_2_1\Quik Backup\obj\Debug\Quik Backup.exe.manifest
 E:\Quik Backup Builds\Quik Backup 1_2_1\Quik Backup\obj\Debug\Quik Backup.application
 E:\Quik Backup Builds\Quik Backup 1_2_1\Quik Backup\obj\Debug\Quik_Backup.AboutBox1.resources
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.exe.config
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.exe.manifest
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.application
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.exe
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.pdb
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\bin\Debug\Quik Backup.xml
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik_Backup.AboutBox1.resources
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik_Backup.disclaimer.resources
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.exe.manifest
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.application
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.exe
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.xml
+E:\Quik Backup Builds\Quik Backup 1_3\Quik Backup\obj\Debug\Quik Backup.pdb

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="321536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="323584">
       <assemblyIdentity name="Quik Backup" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OPwmPx3UpLdvJHJMvokN79JsD2RbLHV6f2zOUe0p3wU=</dsig:DigestValue>
+        <dsig:DigestValue>IdNnbytCcibO/XSsjXoONa/LHs2u84Wc5jucIIeaacQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
