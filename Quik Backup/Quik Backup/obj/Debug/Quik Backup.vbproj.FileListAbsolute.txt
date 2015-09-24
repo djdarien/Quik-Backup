@@ -1,0 +1,85 @@
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\bin\Debug\Quik Backup.exe.config
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\bin\Debug\Quik Backup.exe
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\bin\Debug\Quik Backup.pdb
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\bin\Debug\Quik Backup.xml
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik Backup.exe
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik Backup.xml
+C:\Users\entwistled\AppData\Local\Temporary Projects\Quik Backup\obj\Debug\Quik Backup.pdb
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe.config
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.exe
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.xml
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.pdb
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.pdb
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.xml
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe.config
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.exe
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.xml
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.pdb
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.pdb
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.xml
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbprojResolveAssemblyReference.cache
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+I:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbprojResolveAssemblyReference.cache
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.disclaimer.resources
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe.manifest
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\bin\Debug\Quik Backup.application
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.exe.manifest
+E:\2015-16-Programming Class\Quik Backup\Quik Backup\obj\Debug\Quik Backup.application
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe.config
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.exe
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.xml
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.pdb
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe.manifest
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.application
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.exe
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.pdb
+E:\Quik Backup\Quik Backup\bin\Debug\Quik Backup.xml
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbprojResolveAssemblyReference.cache
+E:\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.disclaimer.resources
+E:\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+E:\Quik Backup\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.exe.manifest
+E:\Quik Backup\Quik Backup\obj\Debug\Quik Backup.application
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.exe.config
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.exe
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.xml
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.pdb
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.vbprojResolveAssemblyReference.cache
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik_Backup.disclaimer.resources
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.exe.manifest
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.application
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.exe
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.pdb
+E:\Quik Backup_revision\Quik Backup\bin\Debug\Quik Backup.xml
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.exe.manifest
+E:\Quik Backup_revision\Quik Backup\obj\Debug\Quik Backup.application
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.exe.config
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.exe
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.xml
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.pdb
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.vbprojResolveAssemblyReference.cache
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik_Backup.disclaimer.resources
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik_Backup.Form1.resources
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik_Backup.Resources.resources
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.vbproj.GenerateResource.Cache
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.exe.manifest
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.application
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.exe
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.pdb
+E:\Quik Backup 1_2\Quik Backup\bin\Debug\Quik Backup.xml
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.exe.manifest
+E:\Quik Backup 1_2\Quik Backup\obj\Debug\Quik Backup.application

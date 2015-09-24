@@ -1,4 +1,4 @@
-Imports System.IO
+﻿Imports System.IO
 
 Public Class Form1
 
@@ -66,8 +66,4 @@ Public Class Form1
 
 #End Region
 
-    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
-        AboutBox1.Show()
-        'Brian Makewit
-    End Sub
 End Class
