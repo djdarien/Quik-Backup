@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="Quik Backup.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Quik Backup" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Quik Backup" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
     <commandLine file="Quik Backup.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="245248">
-      <assemblyIdentity name="Quik Backup" version="1.0.0.1" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Quik Backup.exe" size="321536">
+      <assemblyIdentity name="Quik Backup" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PmPOk56xi+USEgBHiKjVcCBvLlrcB4bYuffVQ7gGqOU=</dsig:DigestValue>
+        <dsig:DigestValue>OPwmPx3UpLdvJHJMvokN79JsD2RbLHV6f2zOUe0p3wU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

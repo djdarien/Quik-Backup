@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Quik Backup")> 
-<Assembly: AssemblyDescription("Copies files within folders for to your student document storage easily!!")> 
+<Assembly: AssemblyDescription("Creates a copy of selected directories in school's servers.")> 
 <Assembly: AssemblyCompany("Net Byte")> 
 <Assembly: AssemblyProduct("Quik Backup")> 
-<Assembly: AssemblyCopyright("Copyright Darien Entwistle  &  Gage Will ©  2015")> 
+<Assembly: AssemblyCopyright("Copyright Darien Entwistle &  Gage Will &  Brian Maskewit ©  2015")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.1")> 
-<Assembly: AssemblyFileVersion("1.0.0.1")> 
+<Assembly: AssemblyVersion("1.0.2.1")> 
+<Assembly: AssemblyFileVersion("1.0.2.1")> 

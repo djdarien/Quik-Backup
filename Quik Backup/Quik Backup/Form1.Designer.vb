@@ -29,14 +29,16 @@ Partial Class Form1
         Me.btnBackupNow = New System.Windows.Forms.Button()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.ForeColor = System.Drawing.Color.Black
-        Me.Button1.Location = New System.Drawing.Point(127, 152)
+        Me.Button1.Location = New System.Drawing.Point(127, 141)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 32)
         Me.Button1.TabIndex = 0
@@ -64,7 +66,7 @@ Partial Class Form1
         '
         Me.btnBackupNow.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnBackupNow.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.btnBackupNow.Location = New System.Drawing.Point(127, 79)
+        Me.btnBackupNow.Location = New System.Drawing.Point(127, 68)
         Me.btnBackupNow.Name = "btnBackupNow"
         Me.btnBackupNow.Size = New System.Drawing.Size(75, 59)
         Me.btnBackupNow.TabIndex = 3
@@ -81,10 +83,21 @@ Partial Class Form1
         Me.Label1.TabIndex = 8
         Me.Label1.Text = "Location of your" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "USB/Flash Drive"
         '
+        'PictureBox2
+        '
+        Me.PictureBox2.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.PictureBox2.Image = Global.Quik_Backup.My.Resources.Resources.info
+        Me.PictureBox2.Location = New System.Drawing.Point(13, 154)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(20, 19)
+        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox2.TabIndex = 9
+        Me.PictureBox2.TabStop = False
+        '
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.Quik_Backup.My.Resources.Resources.Backup_center_icon
-        Me.PictureBox1.Location = New System.Drawing.Point(12, 79)
+        Me.PictureBox1.Location = New System.Drawing.Point(12, 68)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(89, 80)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -97,7 +110,8 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Silver
-        Me.ClientSize = New System.Drawing.Size(218, 196)
+        Me.ClientSize = New System.Drawing.Size(219, 186)
+        Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.btnBackupNow)
@@ -111,6 +125,7 @@ Partial Class Form1
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Quik Backup"
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -123,4 +138,5 @@ Partial Class Form1
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents FolderBrowserDialog1 As System.Windows.Forms.FolderBrowserDialog
     Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents PictureBox2 As System.Windows.Forms.PictureBox
 End Class
