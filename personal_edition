@@ -4,14 +4,14 @@
 
         Dim strPath1 As String = txtSource.Text  'inputs source textbox into a string for usage'
         'String below is the backup path
-        Dim strPath2 As String = "\\atec.net\dw\dev\" & Environment.GetFolderPath(Environment.SpecialFolder.UserProfile).Remove(0, 9) & "\Documents\Your QuikBackup "
+        Dim strPath2 As String = "\\NETWORKSHARE\HERE" & Environment.GetFolderPath(Environment.SpecialFolder.UserProfile).Remove(0, 9) & "\Documents\Your QuikBackup "
        
         If My.Computer.FileSystem.DirectoryExists(strPath1) = False OrElse strPath1.Length = 0 Then
             MessageBox.Show("No Files/Data were selected for backup!! Please select a folder!", "ERROR!", MessageBoxButtons.OK)
         Else
             My.Computer.FileSystem.CopyDirectory(strPath1, strPath2, showUI:=FileIO.UIOption.AllDialogs, onUserCancel:=FileIO.UICancelOption.DoNothing)
 
-            MessageBox.Show("Your backup is located in a folder called 'Your QuikBackup' in your 'Documents Storage' folder!", "BACKUP SUCCESSFUL!", MessageBoxButtons.OK)
+            MessageBox.Show("Your backup is located in a folder called 'Your QuikBackup' in your 'Network Share' folder!", "BACKUP SUCCESSFUL!", MessageBoxButtons.OK)
            
         End If
 
